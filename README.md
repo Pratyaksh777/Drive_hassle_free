@@ -9,8 +9,7 @@ An android applications which would give user notification before they enters an
 * Geo-fencing.
 * Firebase to store the location.
 
-# Screenshots
-<h3>START UP & EXPLAINATION</h3>
+# Screenshots(START UP & EXPLAINATION)
 <table>
 <tr>
 <td><img src="https://github.com/Pratyaksh777/Drive_hassle_free/blob/master/Screenshots/Screenshot%20(724).png" width=600 >
