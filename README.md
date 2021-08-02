@@ -12,7 +12,7 @@
 <h3>START UP & EXPLAINATION</h3>
 <table>
 <tr>
-<td><img src="https://github.com/Pratyaksh777/Drive_hassle_free/blob/master/Screenshots/Screenshot%20(724).png" width=460 >
+<td><img src="https://github.com/Pratyaksh777/Drive_hassle_free/blob/master/Screenshots/Screenshot%20(724).png" width=560 >
   <td><img src="https://github.com/Pratyaksh777/Drive_hassle_free/blob/master/Screenshots/Screenshot%20(723).png" width=360></td>
   </tr>
   </table>
