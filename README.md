@@ -9,16 +9,11 @@
 * Firebase to store the location.
 
 # Screenshots
-<h3>START UP</h3>
+<h3>START UP & EXPLAINATION</h3>
 <table>
 <tr>
 <td><img src="https://github.com/Pratyaksh777/Drive_hassle_free/blob/master/Screenshots/Screenshot%20(724).png" width=360 >
-  </tr>
-  </table>
-   <h3>In App Explaination</h3>
-  <table>
-  <tr>
-<td><img src="https://github.com/Pratyaksh777/Drive_hassle_free/blob/master/Screenshots/Screenshot%20(723).png" width=360></td>
+  <td><img src="https://github.com/Pratyaksh777/Drive_hassle_free/blob/master/Screenshots/Screenshot%20(723).png" width=360></td>
   </tr>
   </table>
   
